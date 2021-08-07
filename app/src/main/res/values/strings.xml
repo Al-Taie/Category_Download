@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Category Download</string>
+    <string name="total_download">Total Download</string>
+    <string name="instagram">Instagram</string>
+    <string name="_120">120</string>
+    <string name="tiktok">TikTok</string>
+    <string name="_36">36</string>
+    <string name="twitter">Twitter</string>
+    <string name="_12">12</string>
+    <string name="facebook">Facebook</string>
+    <string name="_331">331</string>
+    <string name="youtube">Youtube</string>
+    <string name="_531">531</string>
+    <string name="snapchat">Snapchat</string>
+    <string name="_97">97</string>
+    <string name="category_download">Category Download</string>
+    <string name="_2">2</string>
+</resources>
